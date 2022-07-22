@@ -1,4 +1,4 @@
-# frontend-v2
+# stashaway deposit plan
 
 ## Prerequisites
 
