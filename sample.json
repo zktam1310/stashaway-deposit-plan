@@ -1,0 +1,45 @@
+{
+    "account_ref": "12312wdqwddwqdw",
+    "plans": [
+        {
+            "amount": 10000,
+            "type": "once",
+            "portfolios": [
+                {
+                    "portfolio_ref": "21qwkkdbk",
+                    "portfolio_amount": 7000,
+                    "priority": 1
+                },
+                {
+                    "portfolio_ref": "89qwdwqq",
+                    "portfolio_amount": 3000,
+                    "priority": 2
+                }
+            ]
+        },
+        {
+            "amount": 4000,
+            "type": "monthly",
+            "portfolios": [
+                {
+                    "portfolio_ref": "21qwkkdbk",
+                    "portfolio_amount": 3000,
+                    "priority": 1
+                },
+                {
+                    "portfolio_ref": "89qwdwqq",
+                    "portfolio_amount": 1000,
+                    "priority": 2
+                }
+            ]
+        }
+    ],
+    "funds": [
+        {
+            "amount": 10000
+        },
+        {
+            "amount": 4000
+        }
+    ]
+}
